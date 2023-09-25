@@ -13,7 +13,7 @@ public class Practical_4a {
 
 
     public static void main(String args[]) {
-        Practical_4 obj = new Practical_4(); // implicit call to constructor
+        Practical_4a obj = new Practical_4a(); // implicit call to constructor
     }
 }
 
