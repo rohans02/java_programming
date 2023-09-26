@@ -6,7 +6,7 @@
  * */
 
 
-public class Practical_5 {
+public class Practical_5a {
     public static void main(String args[]) {
         if (args.length != 2) {
             System.out.println("Provide two numbers as Command line argument");
@@ -27,7 +27,7 @@ public class Practical_5 {
  *
  * Enrollment No: 2106181      Date: 18th Aug 2023
  * */
-public class Practical_5 {
+public class Practical_5b {
     public static void main(String args[]) {
         int[] arr = new int[]{1, 2, 3, 4, 5, 6};
         int sum = 0;
